@@ -23,10 +23,10 @@ These are some of the languages and tools that I frequently use in my quests:
 [<img align='left' alt='React' width='32px' src='https://github.com/NorbertoC/NorbertoC/assets/7739174/820bab56-e45b-4c00-803b-f156b08f65e2' />][React]
 [<img align='left' alt='Redux' width='32px' src='https://redux.js.org/img/redux.svg' />][Redux]
 [<img align='left' alt='Angular' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png' />][Angular]
-[<img align='left' alt='AWS' width='32px' src='https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png' />][AWS]
 [<img align='left' alt='GIT' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' />][Git]
 [<img align='left' alt='Github' width='32px' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png' />][Github]
 [<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' />][Terminal]
+[<img align='left' alt='AWS' width='36px' height='28px' src='https://images.idgesg.net/images/article/2018/11/aws_logo-100781597-large.jpg' />][AWS]
 
 <br clear="left" />
 
