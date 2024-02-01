@@ -1,12 +1,12 @@
 # Hello, I'm Norberto! 👋
 
-I'm a frontend developer with a passion for coding, gaming, and the enchanting world of Dungeons & Dragons (D&D) 🎲 🧙‍♂️.
+I'm a frontend developer with a passion for coding, gaming, and football ⚽.
 
 ## About Me
 
-- 💻 I'm always on a quest to learn and master new skills and technologies.
-- 🌏 Currently, I'm adventuring in the breathtaking landscapes of New Zealand.
-- 🎮 Fun fact: I'm a hardcore video game enthusiast. If I'm not coding, you'll find me immersed in a virtual world.
+- 💻 Always on a quest to learn and master new skills and technologies.
+- 🌏 Currently traveling around Tokyo while learning Japanese 🇯🇵.
+- 🎮 Fun fact: I'm a hardcore video game enthusiast. If I'm not coding, you'll find me immersed in a virtual world. 
 
 
 <br clear="left" />
