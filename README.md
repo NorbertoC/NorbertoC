@@ -1,12 +1,12 @@
 # Hello, I'm Norberto! 👋
 
-I'm a frontend developer with a passion for coding, gaming, and football ⚽.
+I'm a frontend developer with a passion for coding, gaming, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
 
 ## About Me
 
 - 💻 Always on a quest to learn and master new skills and technologies.
 - 🌏 Currently traveling around Tokyo while learning Japanese 🇯🇵.
-- 🎮 Fun fact: I'm a hardcore video game enthusiast. If I'm not coding, you'll find me immersed in a virtual world. 
+- 🎮 Fun fact: I'm a video game enthusiast. If I'm not coding, you'll find me immersed in a virtual world. 
 
 
 <br clear="left" />
