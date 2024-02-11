@@ -1,4 +1,10 @@
-# Hello, I'm Norberto! 👋
+# Hi there, I'm Norberto! 👋
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmanzoni&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
 
 I'm a software developer with a passion for coding, anime, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
 
