@@ -1,6 +1,6 @@
 # Hello, I'm Norberto! 👋
 
-I'm a frontend developer with a passion for coding, gaming, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
+I'm a frontend developer with a passion for coding, anime, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
 
 ## About Me
 
@@ -36,16 +36,8 @@ These are some of the languages and tools that I frequently use in my quests:
 If you'd like to chat about code, games, or D&D, feel free to connect with me through the following platforms:
 
 [<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
-[<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
 
 <br clear="left" />
-
-
-## GitHub Stats
-
-Here's an overview of my activity on GitHub:
-
-<img align="left" alt="Norberto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NorbertoC&show_icons=true&hide_border=true" />
 
 <!-- LINKS -->
 
