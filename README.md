@@ -1,13 +1,12 @@
 # Hello, I'm Norberto! 👋
 
-I'm a frontend developer with a passion for coding, anime, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
+I'm a software developer with a passion for coding, anime, and football ⚽. In these repos you'll find some side projects, training code, and random stuff that I like to push.
 
 ## About Me
 
+- 🌏 Argentinian geek living in New Zealand. 
 - 💻 Always on a quest to learn and master new skills and technologies.
-- 🌏 Currently traveling around Tokyo while learning Japanese 🇯🇵.
-- 🎮 Fun fact: I'm a video game enthusiast. If I'm not coding, you'll find me immersed in a virtual world. 
-
+- 🇯🇵 Currently traveling around Tokyo while learning Japanese.
 
 <br clear="left" />
 
@@ -33,11 +32,15 @@ These are some of the languages and tools that I frequently use in my quests:
 
 ## Connect With Me
 
-If you'd like to chat about code, games, or D&D, feel free to connect with me through the following platforms:
-
 [<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
 
 <br clear="left" />
+
+## GitHub Stats
+
+Here's an overview of my activity on GitHub:
+
+<img align="left" alt="NorbertoC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NorbertoC&show_icons=true&hide_border=true" />
 
 <!-- LINKS -->
 
