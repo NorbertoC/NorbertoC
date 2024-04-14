@@ -12,7 +12,6 @@ I'm a software developer with a passion for coding, anime, and football ⚽. In 
 
 - 🌏 Argentinian geek living in New Zealand. 
 - 💻 Always on a quest to learn and master new skills and technologies.
-- 🇯🇵 Currently traveling around Tokyo while learning Japanese.
 
 <br clear="left" />
 
