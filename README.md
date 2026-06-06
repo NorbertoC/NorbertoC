@@ -1,110 +1,90 @@
-# Hi there, I'm Norberto! 👋
+# Hi, I'm Norberto Carosella
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
-</p>
+Frontend developer based in Auckland, New Zealand. I care about clean product UI,
+strong TypeScript, performance, and developer experience.
 
-<p align="center">
-  <a href="https://github.com/NorbertoC"><img alt="Personal Profile" src="https://img.shields.io/badge/Personal-@NorbertoC-181717?logo=github" /></a>
-  <a href="https://github.com/norbsurvesy"><img alt="Work Profile" src="https://img.shields.io/badge/Work-@norbsurvesy-0A66C2?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/norberto-carosella87/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Norberto%20Carosella-0A66C2?logo=linkedin" /></a>
-</p>
-
-I'm a software developer with a passion for coding, anime, and football ⚽. In these repos you'll find side projects, training code, and random experiments I like to push.
-
----
-
-## Combined at-a-glance
-
-> I keep **personal** and **work** activity visible here so you can see both in one place. (Work activity is shown via public badges/cards; the official contribution graph remains per account.)
-
-<table>
-  <tr>
-    <td align="center"><strong>Personal (@NorbertoC)</strong></td>
-    <td align="center"><strong>Work (@norbsurvesy)</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Personal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NorbertoC&show_icons=true&hide_border=true" />
-    </td>
-    <td>
-      <img alt="Work GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=norbsurvesy&show_icons=true&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Top Langs Personal" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertoC&layout=compact&hide_border=true" />
-    </td>
-    <td>
-      <img alt="Top Langs Work" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norbsurvesy&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img alt="Personal Streak" src="https://streak-stats.demolab.com/?user=NorbertoC&hide_border=true" />
-  <img alt="Work Streak" src="https://streak-stats.demolab.com/?user=norbsurvesy&hide_border=true" />
-</p>
-
----
-
-## About Me
-
-- 🌏 Argentinian geek living in New Zealand.
-- 💻 Always learning and mastering new frontend tooling (React, TypeScript, shadcn/ui), and building for performance & DX.
-
-<br clear="left" />
-
-## Languages & Tools
-
-[<img align='left' alt='Visual Studio Code' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png' />][VS]
-[<img align='left' alt='HTML' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' />][HTML]
-[<img align='left' alt='CSS' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />][CSS]
-[<img align='left' alt='SASS' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' />][SASS]
-[<img align='left' alt='Javascript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />][JS]
-[<img align='left' alt='Typescript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />][TS]
-[<img align='left' alt='React' width='32px' src='https://github.com/NorbertoC/NorbertoC/assets/7739174/820bab56-e45b-4c00-803b-f156b08f65e2' />][React]
-[<img align='left' alt='Redux' width='32px' src='https://redux.js.org/img/redux.svg' />][Redux]
-[<img align='left' alt='Angular' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png' />][Angular]
-[<img align='left' alt='GIT' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' />][Git]
-[<img align='left' alt='Github' width='32px' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png' />][Github]
-[<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' />][Terminal]
-[<img align='left' alt='AWS' width='36px' height='28px' src='https://images.idgesg.net/images/article/2018/11/aws_logo-100781597-large.jpg' />][AWS]
-
-<br clear="left" />
-
-## Featured Work (from @norbsurvesy)
-
-<p align="left">
-  <a href="https://github.com/norbsurvesy/survesy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norbsurvesy&repo=survesy&hide_border=true" alt="Pinned work repo 1" />
+<p>
+  <a href="https://github.com/NorbertoC">
+    <img alt="Personal GitHub: NorbertoC" src="https://img.shields.io/badge/Personal-@NorbertoC-181717?logo=github" />
+  </a>
+  <a href="https://github.com/norbsurvesy">
+    <img alt="Work GitHub: norbsurvesy" src="https://img.shields.io/badge/Work-@norbsurvesy-0A66C2?logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/norberto-carosella87/">
+    <img alt="LinkedIn: Norberto Carosella" src="https://img.shields.io/badge/LinkedIn-Norberto%20Carosella-0A66C2?logo=linkedin" />
+  </a>
+  <a href="https://norberto.work/">
+    <img alt="Website: norberto.work" src="https://img.shields.io/badge/Web-norberto.work-222222" />
   </a>
 </p>
 
-## Connect With Me
+## GitHub Activity
 
-[<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />](https://www.linkedin.com/in/norberto-carosella87/)
+### 2026
 
-<br clear="left" />
+<p>
+  <img alt="2026 GitHub activity graph" src="./assets/github-activity-2026.svg" />
+</p>
 
----
+**2026 so far**
 
-### Notes
-- To display **private contributions** as activity blocks (not details), enable this on each account: *Settings → Profile → Include private contributions on my profile*.
-- The cards above are public-only; if a work repo is private, it won’t appear in language/stats cards.
+700+ contributions · active most weekdays · mostly private/work repositories
 
-<!-- LINKS -->
+<details>
+  <summary>Previous years</summary>
 
-[VS]: https://code.visualstudio.com/
-[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[SASS]: https://sass-lang.com/
-[JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[TS]: https://www.typescriptlang.org/
-[React]: https://react.dev/
-[Redux]: https://redux.js.org/
-[Angular]: https://angular.io/
-[AWS]: https://aws.amazon.com/
-[Git]: https://git-scm.com/
-[Github]: https://github.com/
-[Terminal]: https://help.ubuntu.com/community/UsingTheTerminal
+### 2025
+
+<p>
+  <img alt="2025 GitHub activity graph" src="./assets/github-activity-2025.svg" />
+</p>
+
+3,600+ contributions · 260+ active days · mostly private/work repositories
+
+### 2024
+
+<p>
+  <img alt="2024 GitHub activity graph" src="./assets/github-activity-2024.svg" />
+</p>
+
+1,200+ contributions · 170+ active days · mostly private/work repositories
+
+</details>
+
+## What I Work With
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111111" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+- Building frontend systems with React and TypeScript.
+- Turning product requirements into maintainable UI.
+- Improving performance, accessibility, and team developer experience.
+- Keeping side projects and experiments in my personal repositories.
+
+## Where To Find Me
+
+- Personal GitHub: [@NorbertoC](https://github.com/NorbertoC)
+- Work GitHub: [@norbsurvesy](https://github.com/norbsurvesy)
+- Website: [norberto.work](https://norberto.work/)
+- LinkedIn: [Norberto Carosella](https://www.linkedin.com/in/norberto-carosella87/)
+
+## Profile Setup Notes
+
+To show private contribution blocks on each GitHub profile:
+
+1. Open the profile page for that account.
+2. Use **Contribution settings** above the graph.
+3. Enable **Private contributions**.
+4. Enable **Activity overview** if you want the breakdown by commits, pull
+   requests, issues, and code review.
+
+The official GitHub graph remains separate per account. The activity graph above
+is a README embed.
